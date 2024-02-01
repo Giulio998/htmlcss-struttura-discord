@@ -201,7 +201,6 @@
 .rowFooter{
     display: flex;
     justify-content: space-between;
-    background-color: aqua;
     min-height: 80px;
     align-items: center;
 }
